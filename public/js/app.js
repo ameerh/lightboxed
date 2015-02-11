@@ -1,1 +1,1 @@
-angular.module('sampleApp', ['ngRoute', 'appRoutes', 'MainCtrl', 'NerdCtrl', 'NerdService', 'GeekCtrl', 'GeekService']);
+angular.module('lightboxApp', ['ngRoute', 'appRoutes', 'MainCtrl', 'ui.bootstrap', 'ModalInstanceCtrl', 'ngDragDrop']);
